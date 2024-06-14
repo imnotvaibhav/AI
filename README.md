@@ -1,5 +1,5 @@
 # AI
-* Autogen_RAG_HF is the assignment file
+* Autogen_RAG_HF is the assignment file.
 Other are practice notebooks.
 
 # How to make assignment file work on your system:
