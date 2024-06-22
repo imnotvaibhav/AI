@@ -2,7 +2,7 @@
 * Assignment_autogen_RAG_HF is the assignment file.
 Other are practice notebooks.
 
-# How to make assignment file work on your system:
+# How to make file work on your system:
 1. Download Assignment_autogen_RAG_HF.ipynb file
 2. lm-Studio  
    2.1 Download and install lm-studio from "https://lmstudio.ai/".
