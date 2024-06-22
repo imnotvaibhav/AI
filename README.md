@@ -16,3 +16,8 @@ Other are practice notebooks.
    2.3 Deploy the model.
    2.4 Start the server.
 3. Run the Autogen_RAG_HF.ipynb file.
+
+
+## NOTE:
+* If local LLM runs slow try using free gemini flash api key instead of paid gemini api/ open api key.
+
